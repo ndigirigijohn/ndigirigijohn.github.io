@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ndigirigijohn.github.io/sitemap.xml
